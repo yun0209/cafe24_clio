@@ -1,0 +1,21 @@
+#header{
+  background-color: #181818;
+}
+
+.main_video_box{
+
+    width: 100%;
+    height: auto;
+    iframe{
+        video{
+            width: 100% !important;
+            
+        }
+    }
+}
+//직계 자식인 경우만 > 표현 사용
+
+.w-100{
+    width: 100%;
+}
+
